@@ -1,4 +1,4 @@
-# js-clean-code
+# JavaScript Clean Code
 
 Original Repository: [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
