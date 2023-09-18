@@ -1,6 +1,6 @@
 # JavaScript Clean Code
 
-Original Repository: [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+**Based on Repository:** [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ![version](https://img.shields.io/badge/version-1.0.0-yellowgreen)
 ![licence](https://img.shields.io/badge/license-MIT-brightgree)
